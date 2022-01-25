@@ -6,3 +6,9 @@
 
 ## Objective
 Create an Excel file with the data of a query performed in New Relic.
+
+## Using
+Configure the file "config.json" and execute:
+```
+nr-to-excel
+```
