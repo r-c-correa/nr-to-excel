@@ -1,0 +1,9 @@
+{
+    "api_key": "<NEW RELIC API KEY>",
+    "account_id": 0,
+    "nrql": "SELECT * FROM Log",
+    "start": "2022-01-25T10:00:00Z",
+    "end": "2022-01-25T11:00:00Z",
+    "primary_key": "",
+    "window_in_minutes": 5
+}
